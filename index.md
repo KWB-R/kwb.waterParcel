@@ -5,8 +5,6 @@
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/kwb.waterParcel)]()
 [![R-Universe_Status_Badge](https://kwb-r.r-universe.dev/badges/kwb.waterParcel)](https://kwb-r.r-universe.dev/)
 
-# kwb.waterParcel
-
 Conservative tracers within the water can be used to
 interpret the results of a sampling compaign following one water
 parcel (Lagrangian Sampling).
@@ -30,9 +28,3 @@ if (! require("remotes")) {
 # Install KWB package 'kwb.waterParcel' from GitHub
 remotes::install_github("KWB-R/kwb.waterParcel")
 ```
-
-## Documentation
-
-Release: [https://kwb-r.github.io/kwb.waterparcel](https://kwb-r.github.io/kwb.waterparcel)
-
-Development: [https://kwb-r.github.io/kwb.waterparcel/dev](https://kwb-r.github.io/kwb.waterparcel/dev)
